@@ -8,7 +8,6 @@ Original file is located at
 """
 
 import streamlit as st
-import joblib
 import numpy as np
 import pickle
 from flask import Flask, request, render_template
